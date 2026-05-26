@@ -168,15 +168,30 @@ All dashboard visuals update dynamically based on selected year and month.
 - 👩 **Women account for 51%** of ER visits, slightly outnumbering men
 
 ---
-## 🌐 Connect With Me
 
-**Khushal Singh Sankhla**
-- GitHub: [khushalsinghsankhla2808](https://github.com/khushalsinghsankhla2808)
-- LinkedIn: [Khushal Singh Sankhla](https://www.linkedin.com/in/khushal-singh-sankhla/)
-- Email: khushalsinghsankhla203@gmail.com
+# 🌐 Connect With Me
 
-For queries, feedback, or collaboration, feel free to reach out.
+<div align="center">
 
+## 👨‍💻 Khushal Singh Sankhla
+
+<p align="center">
+
+  <a href="https://github.com/khushalsinghsankhla2808" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-khushalsinghsankhla2808-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/khushal-singh-sankhla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushal%20Singh%20Sankhla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:khushalsinghsankhla203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+</div>
 
 ---
 
